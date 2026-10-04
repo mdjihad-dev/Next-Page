@@ -1,6 +1,6 @@
 import WorldBook1 from "../../Images/WorldBook1.png";
 import WorldBook2 from "../../Images/WorldBook2.png";
-import WorldBook3 from "../../Images/WorldBook3.png";
+import WorldBook3 from "../../Images/Worldbook3.png";
 
 const Popular = () => {
   return (
